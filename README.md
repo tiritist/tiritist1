@@ -27,11 +27,11 @@ Current Project: <a href="(https://github.com/tiritist)">See the github.</a>
   &nbsp; 
   &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="(https://github.com/tiritist)">
-  <img src="(https://github.com/tiritist)" width="30px" alt="Twitter"></a>
+  <img src="(https://github.com/tiritist)" width="30px" alt="Twitter (I dont have)"></a>
   &nbsp; 
   &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/tiritist">
-  <img src="https://github.com/tiritist" width="30px" alt="YouTube"></a>
+  <img src="https://github.com/tiritist" width="30px" alt="YouTube (neither)"></a>
   &nbsp;
   &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
@@ -43,6 +43,6 @@ Current Project: <a href="(https://github.com/tiritist)">See the github.</a>
 </details>
 
 ----
-Credits: [TanZng](https://github.com/TanZng)
+Credits: [Tyra Roig](https://github.com/tiritist).
 
 Last Edited on: 31/08/2020
